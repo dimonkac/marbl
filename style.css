@@ -448,4 +448,7 @@ div.fotertext3 > p {
   section.foot > div {
     height: auto;
   }
+  .footertext {
+    width: auto;
+  }
 }
